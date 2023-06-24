@@ -6,7 +6,8 @@
   "name": "PearlTickets",
   "description": "Ender pearl can selectively load chunks",
   "authors": [
-    "toytag"
+    "toytag",
+    "SkyDynamic[1.20.x]"
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/pearltickets",
@@ -23,7 +24,7 @@
   ],
 
   "depends": {
-    "minecraft": "1.18.x",
+    "minecraft": "1.20.x",
     "java": ">=17"
   }
 }
